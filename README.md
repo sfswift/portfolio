@@ -1,5 +1,4 @@
 # Sullivan Swift
-Portfolio
 
 ## 1.0 Bay Area GoBike Analysis
 
