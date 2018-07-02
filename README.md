@@ -3,8 +3,8 @@ Portfolio
 
 Last Updated: 6/18/2018
 
-## 1.0 Ford GoBike Analysis
+## 1.0 Bay Area GoBike Analysis
 
-*SQL, Google BigQuery, Python, Jupyter Notebook, Data Analysis*
+*Data Analysis, Google BigQuery, Jupyter Notebook, Python, standardSQL*
 
-> Description of the project
+> A brief analysis of the `san-francisco` bikeshare datasets available on Google BigQuery's public datasets.
